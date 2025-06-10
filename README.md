@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Anjali Sharma
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently pursuing Masters of Science in Business Information Systems and Analytics at University of Arkansas at Little Rock
-- 💞️ I’m looking for 2025 Summer internships in Data Analytics
+- 👀 I’m interested in Data Science
+- 🌱 Pursuing Master of Science in Business Information Systems and Analytics at the University of Arkansas at Little Rock
+- ✈️ Intern at Dassault Falcon Jet✈
+- 💼 Graduate Assistant at UALR
 - ✨ Skills: Excel, SQL, Python, Power BI, Tableau
 - 📫 How to reach me : anjalisharma09122@gmail.com
 - 😄 Pronouns: She/her
