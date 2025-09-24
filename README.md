@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Anjali Sharma
-- 👀 I’m interested in Data Science
+- 👀 Looking for Full-Time roles in Data Science
 - 🌱 Pursuing Master of Science in Business Information Systems and Analytics at the University of Arkansas at Little Rock
-- ✈️ Intern at Dassault Falcon Jet✈
+- ✈️ Intern'25 at Dassault Falcon Jet✈
 - 💼 Graduate Assistant at UALR
-- ✨ Skills: Excel, SQL, Python, Power BI, Tableau
+- ✨ Skills: Artificial Intelligence🤖,Machine Learning🧠,Python🐍,SQL🗄️,Power BI📈,Tableau📊,Excel📑
+- 🛠️ Frameworks: Pandas🐼,NumPy🔢,Matplotlib📊,Seaborn🌊,Scikit-learn🤖,TensorFlow🧠,PyTorch🔥,Keras🪢,Jupyter Notebook📓
 - 📫 How to reach me : anjalisharma09122@gmail.com
 - 😄 Pronouns: She/her
 
