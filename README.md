@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anjali Sharma👩🏻‍🎓
-- 👀 Looking for Full-Time roles in Data Science
+- 👀 Looking for Full-Time roles in Data Analyst/Data Science
 - 🌱 Pursuing Master of Science in Business Information Systems and Analytics at the University of Arkansas at Little Rock
 - ✈️ Intern'25 at Dassault Falcon Jet✈
 - 💼 Graduate Assistant at UALR
